@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping and doing nothing
 - 🌱 I’m currently learning PHP, JS, MySQL
 - 💞️ I’m looking to collaborate on working projects where I can gain experience
-- 📫 How to reach me? Just send an email @ iam.ralfhedwinpanti.10@gmail.com
+- 📫 How to reach me? Just send an email @ iam.ralfhedwinpanti@gmail.com
 
 <!---
 raed1999/raed1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
